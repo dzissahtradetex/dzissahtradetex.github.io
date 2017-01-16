@@ -1,0 +1,55 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: "Dzissah Trade Tex Ltd."
+description: "Dzissah Trade Tex's Website,use Jekyll and github pages."
+keywords: "DzissahTradeTex, ghanaweavers, dzissahghana, kenteghana, yarn, kente, Jekyll, github, gh-pages"
+baseurl: "/"
+url: "http://dzissahtradetex.github.io"
+# url: "http://127.0.0.1:4000"
+
+# author
+author:
+  name: 'DzissahT rade Tex Ltd'
+  first_name: 'Dzissah'
+  last_name: 'Tradetex'
+  email: 'dzikosi@aol.com'
+  facebook_username: 'dzissahtradetex'
+  github_username: 'dzissahtradetex'
+  # avatar: 'static/img/landing/trusttex'
+  avatar: 'static/img/landing/Jack.jpg'
+  desc: 'We manufacture and supply all kinds of weaving yarns such as, 100% cotton, polyester, ryon, viscos etc, for both retail and wholesale.'
+
+# comment
+changyan:
+  # appid: cysfY7ULn
+  # conf: prod_861928934cecb7a18e15bedaed9dae29
+# disqus:
+  #name: jalpc
+  #public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
+
+# share
+#bshare:
+  #uuid: 513f778e-a8f7-4c20-9ec2-d29cc2328d75
+
+# baidu analytics
+#ba:
+  # uuid: 317acca9ef9255b934e46371e471431d
+
+# google analytics
+#ga:
+  #id: UA-73784599-1
+
+# growingIO
+#gio:
+  #id: a49d4901c7853da9
+
+# Build settings
+encoding: "utf-8"
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

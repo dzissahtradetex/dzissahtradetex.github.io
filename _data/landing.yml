@@ -1,0 +1,30 @@
+# index page sections
+- id: 'about-us'
+  i18n: 'nav.about_us'
+  name: 'About'
+  tpl: 'about.html'
+  css: ''
+
+- id: 'history'
+  i18n: 'nav.history'
+  name: 'history'
+  tpl: 'history.html'
+  css: 'timeline'
+
+- id: 'products'
+  i18n: 'nav.products'
+  name: 'products'
+  tpl: 'products.html'
+  css: 'team'
+
+- id: 'services'
+  i18n: 'nav.services'
+  name: 'services'
+  tpl: 'services.html'
+  css: 'project'
+
+- id: 'contact-us'
+  i18n: 'nav.contact'
+  name: 'Contact'
+  tpl: 'contact.html'
+  css: 'contact-us'
