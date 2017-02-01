@@ -15,7 +15,7 @@
 
 - name:
     detail: Netease Game
-    i18n: netease 
+    i18n: netease
   desc:
     detail: In Netease game, I learned game service system and use Python code for ops.
     i18n: netease_des
@@ -42,15 +42,15 @@
   icon: fa-cloud
 
 - name:
-    detail: Graduation
+    detail: Cotton Farming and Agri-business
     i18n: college
   desc:
-    detail: At July 2013,I graduated from college and started my IT technology tour.
+    detail: Medium scal cotton farming and Agri-business at afram plains.
     i18n: college_des
   date:
-    detail: Jul. 2013
+    detail: Jul. 1980
     i18n: college_date
   job:
-    detail: Student
+    detail: Startup
     i18n: college_job
   icon: fa-book
