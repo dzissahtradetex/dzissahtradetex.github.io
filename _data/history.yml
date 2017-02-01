@@ -1,26 +1,27 @@
 # history section data
 - name:
-    detail: Nextcode
+    detail: Dzissah Trade Tex
     i18n: nextcode
   desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
+    detail: We supply all grades of yarn for industrial and commercial weaving, both on a large scale and domestic.
+              We produce with the highest quality of material. We hold our customers always at heart.
     i18n: nextcode_des
   date:
-    detail: Apr. 2016
+    detail: Apr. 2016 ~ Into the future.
     i18n: nextcode_date
   job:
-    detail: Python Developer
+    detail: Trust Tex Company Ltd
     i18n: nextcode_job
   icon: fa-plus-square
 
 - name:
-    detail: Netease Game
+    detail: Dzissah Textile
     i18n: netease
   desc:
     detail: In Netease game, I learned game service system and use Python code for ops.
     i18n: netease_des
   date:
-    detail: Jun. 2015
+    detail: Jun. 2000
     i18n: nextcode_date
   job:
     detail: Dev Ops
@@ -34,7 +35,7 @@
     detail: In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.
     i18n: ucloud_des
   date:
-    detail: Sep. 2013
+    detail: Sep. 1989
     i18n: ucloud_date
   job:
     detail: Dev Ops
